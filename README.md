@@ -286,8 +286,3 @@ This project demonstrates practical knowledge of:
 
 ---
 
-⭐ **If you found this project helpful, consider giving it a Star on GitHub!**
-
-# 👨‍💻 Author
-
-**Jerminn Rebekka M**
