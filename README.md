@@ -1,6 +1,6 @@
 # 🎓 Smart Student Management System
 
-A modern full-stack **Student Management System** built with **Django REST Framework** and **React**. The application enables educational institutions to efficiently manage student records through a secure, responsive, and intuitive web interface. It also includes a **rule-based AI Student Performance Insight System** that analyzes attendance and academic performance to identify students who may need additional support.
+A modern full-stack **Student Management System** built with **Django REST Framework** and **React**. The application enables educational institutions to efficiently manage student records through a secure, responsive, and intuitive web interface. It also includes a **rule-based Student Performance Insight System** that analyzes attendance and academic performance to identify students who may need additional support.
 
 ---
 
