@@ -4,6 +4,22 @@ A modern full-stack **Student Management System** built with **Django REST Frame
 
 ---
 
+
+<img width="1917" height="978" alt="Screenshot 2026-07-20 234235" src="https://github.com/user-attachments/assets/094eacf7-ddee-41d2-991b-cb2a4b9d689b" />
+
+
+---
+<img width="1913" height="976" alt="Screenshot 2026-07-20 234317" src="https://github.com/user-attachments/assets/a9cf3136-04e6-40d3-ba3d-1a4054e1acfd" />
+
+---
+<img width="1917" height="982" alt="Screenshot 2026-07-20 234450" src="https://github.com/user-attachments/assets/0f9b531d-ad23-4031-80a7-99ad28d462a9" />
+
+
+
+
+
+---
+
 # 🚀 Features
 
 ## 🔐 Authentication
