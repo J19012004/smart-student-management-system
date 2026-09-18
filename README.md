@@ -44,11 +44,11 @@ A modern full-stack **Student Management System** built with **Django REST Frame
 - Interactive Charts with Chart.js
 - Responsive Dashboard Cards
 
-## 🤖 AI Student Performance Insights
+## 🤖  Student Performance Insights
 
-The application includes a **rule-based AI recommendation engine** that evaluates student attendance and academic performance to provide useful insights.
+The application includes a **rule-based recommendation engine** that evaluates student attendance and academic performance to provide useful insights.
 
-### AI Features
+### Features
 - Analyze attendance percentage
 - Evaluate student marks
 - Predict student performance category
