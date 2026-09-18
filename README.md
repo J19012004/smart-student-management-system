@@ -61,21 +61,6 @@ The application includes a **rule-based AI recommendation engine** that evaluate
 - 🟠 Needs Improvement
 - 🔴 High Risk
 
-### AI Decision Logic
-
-```python
-if attendance < 60:
-    prediction = "High Risk"
-elif marks < 50:
-    prediction = "Needs Improvement"
-elif attendance > 90 and marks > 80:
-    prediction = "Excellent"
-else:
-    prediction = "Average"
-```
-
-> **Note:** This project uses a **rule-based AI recommendation system** for educational purposes. It demonstrates intelligent decision-making logic rather than machine learning.
-
 ## 🎨 User Interface
 - Modern Responsive Design
 - Bootstrap 5
